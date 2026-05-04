@@ -95,6 +95,7 @@
 - [ ] [Struct Optimizations in Go](https://themsaid.com/struct-optimizations-in-go)
 - [ ] [Go Slices: usage and internals](https://go.dev/blog/slices-intro)
 - [ ] [The Empty Struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
+- [ ] [Slices, Maps, and Channels](https://internals-for-interns.com/posts/go-runtime-slices-maps-channels/)
 
 
 ## Interfaces
