@@ -110,9 +110,9 @@
 
 ## Pointers
 
-- [ ] [Pointers in Go Are Simple — Until You Misunderstand What They Actually Point To](https://dev.to/devflex-pro/go-from-zero-to-depth-part-4-pointers-in-go-not-scary-just-misunderstood-4bbh)
-- [ ] [Learn How to Use Pointers in Go](https://blog.gaborkoos.com/posts/2025-10-06-New-Fcc-Article-Learn-How-to-Use-Pointers-in-Go/)
-- [ ] [Deep Dive into Go Pointers](https://medium.com/@billyhansweno/deep-dive-into-go-pointers-ca7f09ac6061)
+- [X] [Pointers in Go Are Simple — Until You Misunderstand What They Actually Point To](https://dev.to/devflex-pro/go-from-zero-to-depth-part-4-pointers-in-go-not-scary-just-misunderstood-4bbh)
+- [X] [Learn How to Use Pointers in Go](https://blog.gaborkoos.com/posts/2025-10-06-New-Fcc-Article-Learn-How-to-Use-Pointers-in-Go/)
+- [X] [Deep Dive into Go Pointers](https://medium.com/@billyhansweno/deep-dive-into-go-pointers-ca7f09ac6061)
 
 
 ## I/O
