@@ -56,9 +56,13 @@
 
 ## Memory Management
 
-- [ ] [Go Memory Model Explained Simply](https://dev.to/devflex-pro/go-from-zero-to-depth-part-2-go-memory-model-explained-simply-but-correctly-1n63)
-- [ ] [Stack vs Heap in Go: How Escape Analysis Actually Works](https://dev.to/devflex-pro/go-from-zero-to-depth-part-3-stack-vs-heap-how-escape-analysis-actually-works-48dc)
-- [ ] [Escape Analysis in Go: Understanding Memory Optimization](https://blog.devgenius.io/escape-analysis-in-go-understanding-memory-optimization-83d29f13fa1d)
+- [X] [Understanding Escape Analysis in Go](https://medium.com/@pranoy1998k/understanding-escape-analysis-in-go-b2db76be58f0)
+- [X] [Stack or Heap?](https://syntactic-sugar.dev/blog/nested-route/go-escape-analysis)
+- [X] [A Deep Dive Into Heap Allocations](https://cristiancurteanu.com/why-your-go-code-is-slower-than-it-should-be-a-deep-dive-into-heap-allocations/)
+- [X] [Go Memory Allocation — A Deep Dive](https://medium.com/@harsh.vishnoi01/go-memory-allocation-a-deep-dive-made-simple-faa2ffaf6a65)
+- [x] [Escape Analysis in Go: Understanding Memory Optimization](https://blog.devgenius.io/escape-analysis-in-go-understanding-memory-optimization-83d29f13fa1d)
+- [x] [A Deep Dive into the Go Memory Model: Practical Tips for Better Code](https://dev.to/jones_charles_ad50858dbc0/a-deep-dive-into-the-go-memory-model-practical-tips-for-better-code-3634)
+- [ ] [Language Mechanics On Stacks And Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
 - [ ] [Fundamental of Virtual Memory](https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html)
 - [ ] [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html)
 - [ ] [Go Memory Management](https://povilasv.me/go-memory-management/)
@@ -66,7 +70,6 @@
 - [ ] [Go Memory Management Part 3](https://povilasv.me/go-memory-management-part-3/)
 - [ ] [A visual guide to Go Memory Allocator from scratch](https://medium.com/@ankur_anand/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 - [ ] [Go's Memory Allocator](https://thecodinggopher.substack.com/p/gos-memory-allocator?utm_source=substack&utm_medium=email&utm_content=share)
-- [ ] [A Deep Dive into the Go Memory Model: Practical Tips for Better Code](https://dev.to/jones_charles_ad50858dbc0/a-deep-dive-into-the-go-memory-model-practical-tips-for-better-code-3634)
 - [ ] [Weak Pointers in Go: Why They Matter Now](https://victoriametrics.com/blog/go-weak-pointer/)
 
 
